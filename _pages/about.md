@@ -11,10 +11,8 @@ Mrs. Yujiao Zhu received the B.S. degree in Communication Engineering from Harbi
 
 Research Interest
 ======
-1. Unmanned aerial vehicles localization
-1. Reinforcement learning
-1. Wireless networks
-1. Satellite network
-1. Resource allocation
+1. Unmanned aerial vehicles localization over wireless networks
+1. Machine learning and artificial intelligence (AI) for wireless networks
+1. Satellite over wireless networks
 1. Digital twin
 

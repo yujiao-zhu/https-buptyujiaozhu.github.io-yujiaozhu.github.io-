@@ -1,7 +1,5 @@
 ---
-# title: "Paper Title Number 4"
-# collection: publications
-# permalink: /publication/2024-02-17-paper-title-number-4
+
 excerpt: 'Y. Zhu, M. Chen, S. Wang, Y. Hu, Y. Liu and C. Yin, "Collaborative Reinforcement Learning Based Unmanned Aerial Vehicle (UAV) Trajectory Design for 3D UAV Tracking," in IEEE Transactions on Mobile Computing, Mar. 2024.'
 # date: 2024-02-17
 # venue: 'GitHub Journal of Bugs'

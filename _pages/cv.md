@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Communication Engineering, Harbin Institute of Technology (HIT), 2015-2019
-* Integrated master's and doctoral program in information and communication engineering, Beijing University of Posts and Telecommunications (BUPT), 2019-Present
-* Visiting PhD in Singapore University of Technology and Design (SUTD), 2024
+* B.S. in Communication Engineering, Harbin Institute of Technology (HIT), China, 2015-2019
+* Integrated master's and doctoral program in information and communication engineering, Beijing University of Posts and Telecommunications (BUPT), China, 2019-Present
+* Visiting PhD in Singapore University of Technology and Design (SUTD), Singapore, 2024
 
   
 Skills

@@ -12,7 +12,7 @@ author_profile: true
 * * Y. Zhu, S. Wang, H. Tong and C. Yin, "Performance Optimization for Digital Internet-of-Things Twins Over Wireless Networks," in Proc. of 2023 IEEE International Conference on Communications Workshops (ICC Workshops), Rome, Italy, May 2023. 
 * H. Tong, T. Wang, Y. Zhu, X. Liu, S. Wang and C. Yin, "Mobility-Aware Seamless Handover With MPTCP in Software-Defined HetNets," in IEEE Transactions on Network and Service Management, vol. 18, no. 1, pp. 498-510, Mar. 2021.
 * Y. Zhu, S. Wang, X. Liu, H. Tong and C. Yin, "Joint Task and Resource Allocation in SDN-based UAV-assisted Cellular Networks," 2020 IEEE/CIC International Conference on Communications in China (ICCC), Chongqing, China, Nov. 2020.
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+ 
 {% endif %}
 
 
